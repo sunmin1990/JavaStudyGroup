@@ -9,7 +9,7 @@ public class Array13_2_2 {
 						{4, 5, 6},
 						{7, 8, 9}};
 						
-		int[]  tmp;
+		int[]  tmp; //빈 어레이를 담을 변수 tmp선언
 		tmp =ar[2];
 		ar[2]=ar[1];
 		ar[1]=ar[0];

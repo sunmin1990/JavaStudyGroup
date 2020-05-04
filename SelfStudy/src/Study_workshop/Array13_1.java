@@ -25,7 +25,7 @@ public class Array13_1 {
 	}
 	
 	public static void main(String[] args) { //배열 각각의 인자값 선언.
-		
+		//int [] arr = {10, 77, 135, 14, 25};
 		int [] arr = new int [5];
 		arr[0] = 10;
 		arr[1] = 77;
